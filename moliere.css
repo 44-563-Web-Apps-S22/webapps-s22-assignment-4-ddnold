@@ -1,9 +1,8 @@
-p.speech { color:black; font-family: 'Times New Roman', Times, serif;
-font-size:medium}
-p.direction { color:black; font-family: 'Courier New', Courier, monospace;
+.speech { color:black; font-family:cursive; font-size:medium}
+.direction { color:black; font-family: 'Courier New', Courier, monospace;
 font-size:medium; background-color: violet;}
-p.direction a:hover { background-color:rgb(90, 55, 3); color:white}
-p.name { color:black; font-family: 'Times New Roman', Times, serif; 
+.direction:hover { background-color:rgb(90, 55, 3); color:white}
+h4.name { color:black; font-family: 'Times New Roman', Times, serif; 
 font-size: large;}
 .cleante { color: red}
 .lafleche { color:blue}
