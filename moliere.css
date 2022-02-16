@@ -3,7 +3,12 @@
 font-size:medium; background-color: violet;}
 .direction:hover { background-color:rgb(90, 55, 3); color:white}
 .name { color:black; font-family: 'Times New Roman', Times, serif; 
-font-size: large;}
+font-size: large; display:inline;}
+.name:hover {
+    border-style:dotted;
+    border-color:black;
+    text-shadow: 2px 3px 5px rgb(255, 3, 3);
+}
 .cleante { color: red}
 .lafleche { color:blue}
 table { 
